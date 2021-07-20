@@ -1,0 +1,15 @@
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\Nueva_fechaVb\bin\Debug\net5.0\Nueva_fechaVb.exe
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\Nueva_fechaVb\bin\Debug\net5.0\Nueva_fechaVb.deps.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\Nueva_fechaVb\bin\Debug\net5.0\Nueva_fechaVb.runtimeconfig.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\Nueva_fechaVb\bin\Debug\net5.0\Nueva_fechaVb.runtimeconfig.dev.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\Nueva_fechaVb\bin\Debug\net5.0\Nueva_fechaVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\Nueva_fechaVb\bin\Debug\net5.0\ref\Nueva_fechaVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\Nueva_fechaVb\bin\Debug\net5.0\Nueva_fechaVb.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\Nueva_fechaVb\obj\Debug\net5.0\Nueva_fechaVb.GeneratedMSBuildEditorConfig.editorconfig
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\Nueva_fechaVb\obj\Debug\net5.0\Nueva_fechaVb.AssemblyInfoInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\Nueva_fechaVb\obj\Debug\net5.0\Nueva_fechaVb.AssemblyInfo.vb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\Nueva_fechaVb\obj\Debug\net5.0\Nueva_fechaVb.vbproj.CoreCompileInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\Nueva_fechaVb\obj\Debug\net5.0\Nueva_fechaVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\Nueva_fechaVb\obj\Debug\net5.0\ref\Nueva_fechaVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\Nueva_fechaVb\obj\Debug\net5.0\Nueva_fechaVb.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\Nueva_fechaVb\obj\Debug\net5.0\Nueva_fechaVb.genruntimeconfig.cache

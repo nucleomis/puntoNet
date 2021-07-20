@@ -1,0 +1,15 @@
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Multiplicacion\MultiplicacionVb\bin\Debug\net5.0\MultiplicacionVb.exe
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Multiplicacion\MultiplicacionVb\bin\Debug\net5.0\MultiplicacionVb.deps.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Multiplicacion\MultiplicacionVb\bin\Debug\net5.0\MultiplicacionVb.runtimeconfig.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Multiplicacion\MultiplicacionVb\bin\Debug\net5.0\MultiplicacionVb.runtimeconfig.dev.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Multiplicacion\MultiplicacionVb\bin\Debug\net5.0\MultiplicacionVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Multiplicacion\MultiplicacionVb\bin\Debug\net5.0\ref\MultiplicacionVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Multiplicacion\MultiplicacionVb\bin\Debug\net5.0\MultiplicacionVb.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Multiplicacion\MultiplicacionVb\obj\Debug\net5.0\MultiplicacionVb.GeneratedMSBuildEditorConfig.editorconfig
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Multiplicacion\MultiplicacionVb\obj\Debug\net5.0\MultiplicacionVb.AssemblyInfoInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Multiplicacion\MultiplicacionVb\obj\Debug\net5.0\MultiplicacionVb.AssemblyInfo.vb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Multiplicacion\MultiplicacionVb\obj\Debug\net5.0\MultiplicacionVb.vbproj.CoreCompileInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Multiplicacion\MultiplicacionVb\obj\Debug\net5.0\MultiplicacionVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Multiplicacion\MultiplicacionVb\obj\Debug\net5.0\ref\MultiplicacionVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Multiplicacion\MultiplicacionVb\obj\Debug\net5.0\MultiplicacionVb.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Multiplicacion\MultiplicacionVb\obj\Debug\net5.0\MultiplicacionVb.genruntimeconfig.cache

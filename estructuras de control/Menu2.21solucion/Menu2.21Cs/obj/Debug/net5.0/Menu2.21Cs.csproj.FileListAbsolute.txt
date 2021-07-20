@@ -1,0 +1,16 @@
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu2.21solucion\Menu2.21Cs\bin\Debug\net5.0\Menu2.21Cs.exe
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu2.21solucion\Menu2.21Cs\bin\Debug\net5.0\Menu2.21Cs.deps.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu2.21solucion\Menu2.21Cs\bin\Debug\net5.0\Menu2.21Cs.runtimeconfig.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu2.21solucion\Menu2.21Cs\bin\Debug\net5.0\Menu2.21Cs.runtimeconfig.dev.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu2.21solucion\Menu2.21Cs\bin\Debug\net5.0\Menu2.21Cs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu2.21solucion\Menu2.21Cs\bin\Debug\net5.0\ref\Menu2.21Cs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu2.21solucion\Menu2.21Cs\bin\Debug\net5.0\Menu2.21Cs.pdb
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu2.21solucion\Menu2.21Cs\obj\Debug\net5.0\Menu2.21Cs.csprojAssemblyReference.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu2.21solucion\Menu2.21Cs\obj\Debug\net5.0\Menu2.21Cs.GeneratedMSBuildEditorConfig.editorconfig
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu2.21solucion\Menu2.21Cs\obj\Debug\net5.0\Menu2.21Cs.AssemblyInfoInputs.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu2.21solucion\Menu2.21Cs\obj\Debug\net5.0\Menu2.21Cs.AssemblyInfo.cs
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu2.21solucion\Menu2.21Cs\obj\Debug\net5.0\Menu2.21Cs.csproj.CoreCompileInputs.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu2.21solucion\Menu2.21Cs\obj\Debug\net5.0\Menu2.21Cs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu2.21solucion\Menu2.21Cs\obj\Debug\net5.0\ref\Menu2.21Cs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu2.21solucion\Menu2.21Cs\obj\Debug\net5.0\Menu2.21Cs.pdb
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu2.21solucion\Menu2.21Cs\obj\Debug\net5.0\Menu2.21Cs.genruntimeconfig.cache

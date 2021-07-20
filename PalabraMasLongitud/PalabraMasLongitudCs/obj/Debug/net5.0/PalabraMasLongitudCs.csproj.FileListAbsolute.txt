@@ -1,0 +1,16 @@
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudCs\bin\Debug\net5.0\PalabraMasLongitudCs.exe
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudCs\bin\Debug\net5.0\PalabraMasLongitudCs.deps.json
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudCs\bin\Debug\net5.0\PalabraMasLongitudCs.runtimeconfig.json
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudCs\bin\Debug\net5.0\PalabraMasLongitudCs.runtimeconfig.dev.json
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudCs\bin\Debug\net5.0\PalabraMasLongitudCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudCs\bin\Debug\net5.0\ref\PalabraMasLongitudCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudCs\bin\Debug\net5.0\PalabraMasLongitudCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudCs\obj\Debug\net5.0\PalabraMasLongitudCs.GeneratedMSBuildEditorConfig.editorconfig
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudCs\obj\Debug\net5.0\PalabraMasLongitudCs.AssemblyInfoInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudCs\obj\Debug\net5.0\PalabraMasLongitudCs.AssemblyInfo.cs
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudCs\obj\Debug\net5.0\PalabraMasLongitudCs.csproj.CoreCompileInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudCs\obj\Debug\net5.0\PalabraMasLongitudCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudCs\obj\Debug\net5.0\ref\PalabraMasLongitudCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudCs\obj\Debug\net5.0\PalabraMasLongitudCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudCs\obj\Debug\net5.0\PalabraMasLongitudCs.genruntimeconfig.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudCs\obj\Debug\net5.0\PalabraMasLongitudCs.csprojAssemblyReference.cache

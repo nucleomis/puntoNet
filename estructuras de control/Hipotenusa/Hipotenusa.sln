@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HipotenusaCs", "HipotenusaCs\HipotenusaCs.csproj", "{1C31618B-BFD3-48DF-AA1C-4B88DB3C200E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HipotenusaVb", "HipotenusaVb\HipotenusaVb.vbproj", "{EBD99477-F789-40CF-A70E-7150794BA296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C31618B-BFD3-48DF-AA1C-4B88DB3C200E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C31618B-BFD3-48DF-AA1C-4B88DB3C200E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C31618B-BFD3-48DF-AA1C-4B88DB3C200E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C31618B-BFD3-48DF-AA1C-4B88DB3C200E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD99477-F789-40CF-A70E-7150794BA296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD99477-F789-40CF-A70E-7150794BA296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD99477-F789-40CF-A70E-7150794BA296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD99477-F789-40CF-A70E-7150794BA296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C816001-C7C0-414E-AA62-8E7D73CAD0C0}
+	EndGlobalSection
+EndGlobal

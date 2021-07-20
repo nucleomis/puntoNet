@@ -1,0 +1,16 @@
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaVb\bin\Debug\net5.0\HipotenusaVb.exe
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaVb\bin\Debug\net5.0\HipotenusaVb.deps.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaVb\bin\Debug\net5.0\HipotenusaVb.runtimeconfig.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaVb\bin\Debug\net5.0\HipotenusaVb.runtimeconfig.dev.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaVb\bin\Debug\net5.0\HipotenusaVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaVb\bin\Debug\net5.0\ref\HipotenusaVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaVb\bin\Debug\net5.0\HipotenusaVb.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaVb\obj\Debug\net5.0\HipotenusaVb.vbprojAssemblyReference.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaVb\obj\Debug\net5.0\HipotenusaVb.GeneratedMSBuildEditorConfig.editorconfig
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaVb\obj\Debug\net5.0\HipotenusaVb.AssemblyInfoInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaVb\obj\Debug\net5.0\HipotenusaVb.AssemblyInfo.vb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaVb\obj\Debug\net5.0\HipotenusaVb.vbproj.CoreCompileInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaVb\obj\Debug\net5.0\HipotenusaVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaVb\obj\Debug\net5.0\ref\HipotenusaVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaVb\obj\Debug\net5.0\HipotenusaVb.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaVb\obj\Debug\net5.0\HipotenusaVb.genruntimeconfig.cache

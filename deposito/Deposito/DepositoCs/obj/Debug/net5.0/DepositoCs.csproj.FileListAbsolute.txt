@@ -1,0 +1,16 @@
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Deposito\DepositoCs\bin\Debug\net5.0\DepositoCs.exe
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Deposito\DepositoCs\bin\Debug\net5.0\DepositoCs.deps.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Deposito\DepositoCs\bin\Debug\net5.0\DepositoCs.runtimeconfig.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Deposito\DepositoCs\bin\Debug\net5.0\DepositoCs.runtimeconfig.dev.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Deposito\DepositoCs\bin\Debug\net5.0\DepositoCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Deposito\DepositoCs\bin\Debug\net5.0\ref\DepositoCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Deposito\DepositoCs\bin\Debug\net5.0\DepositoCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Deposito\DepositoCs\obj\Debug\net5.0\DepositoCs.csprojAssemblyReference.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Deposito\DepositoCs\obj\Debug\net5.0\DepositoCs.GeneratedMSBuildEditorConfig.editorconfig
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Deposito\DepositoCs\obj\Debug\net5.0\DepositoCs.AssemblyInfoInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Deposito\DepositoCs\obj\Debug\net5.0\DepositoCs.AssemblyInfo.cs
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Deposito\DepositoCs\obj\Debug\net5.0\DepositoCs.csproj.CoreCompileInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Deposito\DepositoCs\obj\Debug\net5.0\DepositoCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Deposito\DepositoCs\obj\Debug\net5.0\ref\DepositoCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Deposito\DepositoCs\obj\Debug\net5.0\DepositoCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Deposito\DepositoCs\obj\Debug\net5.0\DepositoCs.genruntimeconfig.cache

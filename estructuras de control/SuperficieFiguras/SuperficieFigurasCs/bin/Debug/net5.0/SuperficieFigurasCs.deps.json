@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SuperficieFigurasCs/1.0.0": {
+        "runtime": {
+          "SuperficieFigurasCs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SuperficieFigurasCs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

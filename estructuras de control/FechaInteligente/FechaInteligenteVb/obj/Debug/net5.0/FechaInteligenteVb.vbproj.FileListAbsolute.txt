@@ -1,0 +1,16 @@
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\FechaInteligente\FechaInteligenteVb\bin\Debug\net5.0\FechaInteligenteVb.exe
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\FechaInteligente\FechaInteligenteVb\bin\Debug\net5.0\FechaInteligenteVb.deps.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\FechaInteligente\FechaInteligenteVb\bin\Debug\net5.0\FechaInteligenteVb.runtimeconfig.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\FechaInteligente\FechaInteligenteVb\bin\Debug\net5.0\FechaInteligenteVb.runtimeconfig.dev.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\FechaInteligente\FechaInteligenteVb\bin\Debug\net5.0\FechaInteligenteVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\FechaInteligente\FechaInteligenteVb\bin\Debug\net5.0\ref\FechaInteligenteVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\FechaInteligente\FechaInteligenteVb\bin\Debug\net5.0\FechaInteligenteVb.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\FechaInteligente\FechaInteligenteVb\obj\Debug\net5.0\FechaInteligenteVb.vbprojAssemblyReference.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\FechaInteligente\FechaInteligenteVb\obj\Debug\net5.0\FechaInteligenteVb.GeneratedMSBuildEditorConfig.editorconfig
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\FechaInteligente\FechaInteligenteVb\obj\Debug\net5.0\FechaInteligenteVb.AssemblyInfoInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\FechaInteligente\FechaInteligenteVb\obj\Debug\net5.0\FechaInteligenteVb.AssemblyInfo.vb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\FechaInteligente\FechaInteligenteVb\obj\Debug\net5.0\FechaInteligenteVb.vbproj.CoreCompileInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\FechaInteligente\FechaInteligenteVb\obj\Debug\net5.0\FechaInteligenteVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\FechaInteligente\FechaInteligenteVb\obj\Debug\net5.0\ref\FechaInteligenteVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\FechaInteligente\FechaInteligenteVb\obj\Debug\net5.0\FechaInteligenteVb.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\FechaInteligente\FechaInteligenteVb\obj\Debug\net5.0\FechaInteligenteVb.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaCs\bin\Debug\net5.0\HipotenusaCs.exe
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaCs\bin\Debug\net5.0\HipotenusaCs.deps.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaCs\bin\Debug\net5.0\HipotenusaCs.runtimeconfig.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaCs\bin\Debug\net5.0\HipotenusaCs.runtimeconfig.dev.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaCs\bin\Debug\net5.0\HipotenusaCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaCs\bin\Debug\net5.0\ref\HipotenusaCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaCs\bin\Debug\net5.0\HipotenusaCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaCs\obj\Debug\net5.0\HipotenusaCs.GeneratedMSBuildEditorConfig.editorconfig
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaCs\obj\Debug\net5.0\HipotenusaCs.AssemblyInfoInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaCs\obj\Debug\net5.0\HipotenusaCs.AssemblyInfo.cs
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaCs\obj\Debug\net5.0\HipotenusaCs.csproj.CoreCompileInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaCs\obj\Debug\net5.0\HipotenusaCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaCs\obj\Debug\net5.0\ref\HipotenusaCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaCs\obj\Debug\net5.0\HipotenusaCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaCs\obj\Debug\net5.0\HipotenusaCs.genruntimeconfig.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Hipotenusa\HipotenusaCs\obj\Debug\net5.0\HipotenusaCs.csprojAssemblyReference.cache

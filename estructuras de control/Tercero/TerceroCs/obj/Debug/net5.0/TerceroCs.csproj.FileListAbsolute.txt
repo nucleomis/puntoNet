@@ -1,0 +1,16 @@
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Tercero\TerceroCs\bin\Debug\net5.0\TerceroCs.exe
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Tercero\TerceroCs\bin\Debug\net5.0\TerceroCs.deps.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Tercero\TerceroCs\bin\Debug\net5.0\TerceroCs.runtimeconfig.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Tercero\TerceroCs\bin\Debug\net5.0\TerceroCs.runtimeconfig.dev.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Tercero\TerceroCs\bin\Debug\net5.0\TerceroCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Tercero\TerceroCs\bin\Debug\net5.0\ref\TerceroCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Tercero\TerceroCs\bin\Debug\net5.0\TerceroCs.pdb
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Tercero\TerceroCs\obj\Debug\net5.0\TerceroCs.csprojAssemblyReference.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Tercero\TerceroCs\obj\Debug\net5.0\TerceroCs.GeneratedMSBuildEditorConfig.editorconfig
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Tercero\TerceroCs\obj\Debug\net5.0\TerceroCs.AssemblyInfoInputs.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Tercero\TerceroCs\obj\Debug\net5.0\TerceroCs.AssemblyInfo.cs
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Tercero\TerceroCs\obj\Debug\net5.0\TerceroCs.csproj.CoreCompileInputs.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Tercero\TerceroCs\obj\Debug\net5.0\TerceroCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Tercero\TerceroCs\obj\Debug\net5.0\ref\TerceroCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Tercero\TerceroCs\obj\Debug\net5.0\TerceroCs.pdb
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Tercero\TerceroCs\obj\Debug\net5.0\TerceroCs.genruntimeconfig.cache

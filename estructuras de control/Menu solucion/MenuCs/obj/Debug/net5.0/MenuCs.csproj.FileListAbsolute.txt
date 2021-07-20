@@ -1,0 +1,16 @@
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu solucion\MenuCs\bin\Debug\net5.0\MenuCs.exe
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu solucion\MenuCs\bin\Debug\net5.0\MenuCs.deps.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu solucion\MenuCs\bin\Debug\net5.0\MenuCs.runtimeconfig.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu solucion\MenuCs\bin\Debug\net5.0\MenuCs.runtimeconfig.dev.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu solucion\MenuCs\bin\Debug\net5.0\MenuCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu solucion\MenuCs\bin\Debug\net5.0\ref\MenuCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu solucion\MenuCs\bin\Debug\net5.0\MenuCs.pdb
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu solucion\MenuCs\obj\Debug\net5.0\MenuCs.csprojAssemblyReference.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu solucion\MenuCs\obj\Debug\net5.0\MenuCs.GeneratedMSBuildEditorConfig.editorconfig
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu solucion\MenuCs\obj\Debug\net5.0\MenuCs.AssemblyInfoInputs.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu solucion\MenuCs\obj\Debug\net5.0\MenuCs.AssemblyInfo.cs
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu solucion\MenuCs\obj\Debug\net5.0\MenuCs.csproj.CoreCompileInputs.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu solucion\MenuCs\obj\Debug\net5.0\MenuCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu solucion\MenuCs\obj\Debug\net5.0\ref\MenuCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu solucion\MenuCs\obj\Debug\net5.0\MenuCs.pdb
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu solucion\MenuCs\obj\Debug\net5.0\MenuCs.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+G:\programacinoII\repositorios\codigo\VisualStudio\Funciones\FuncionesCs\bin\Debug\net5.0\FuncionesCs.exe
+G:\programacinoII\repositorios\codigo\VisualStudio\Funciones\FuncionesCs\bin\Debug\net5.0\FuncionesCs.deps.json
+G:\programacinoII\repositorios\codigo\VisualStudio\Funciones\FuncionesCs\bin\Debug\net5.0\FuncionesCs.runtimeconfig.json
+G:\programacinoII\repositorios\codigo\VisualStudio\Funciones\FuncionesCs\bin\Debug\net5.0\FuncionesCs.runtimeconfig.dev.json
+G:\programacinoII\repositorios\codigo\VisualStudio\Funciones\FuncionesCs\bin\Debug\net5.0\FuncionesCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\Funciones\FuncionesCs\bin\Debug\net5.0\ref\FuncionesCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\Funciones\FuncionesCs\bin\Debug\net5.0\FuncionesCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\Funciones\FuncionesCs\obj\Debug\net5.0\FuncionesCs.GeneratedMSBuildEditorConfig.editorconfig
+G:\programacinoII\repositorios\codigo\VisualStudio\Funciones\FuncionesCs\obj\Debug\net5.0\FuncionesCs.AssemblyInfoInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\Funciones\FuncionesCs\obj\Debug\net5.0\FuncionesCs.AssemblyInfo.cs
+G:\programacinoII\repositorios\codigo\VisualStudio\Funciones\FuncionesCs\obj\Debug\net5.0\FuncionesCs.csproj.CoreCompileInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\Funciones\FuncionesCs\obj\Debug\net5.0\FuncionesCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\Funciones\FuncionesCs\obj\Debug\net5.0\ref\FuncionesCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\Funciones\FuncionesCs\obj\Debug\net5.0\FuncionesCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\Funciones\FuncionesCs\obj\Debug\net5.0\FuncionesCs.genruntimeconfig.cache

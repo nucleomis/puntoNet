@@ -1,0 +1,15 @@
+G:\programacinoII\repositorios\codigo\VisualStudio\Refrase\RefraseVb\bin\Debug\net5.0\RefraseVb.exe
+G:\programacinoII\repositorios\codigo\VisualStudio\Refrase\RefraseVb\bin\Debug\net5.0\RefraseVb.deps.json
+G:\programacinoII\repositorios\codigo\VisualStudio\Refrase\RefraseVb\bin\Debug\net5.0\RefraseVb.runtimeconfig.json
+G:\programacinoII\repositorios\codigo\VisualStudio\Refrase\RefraseVb\bin\Debug\net5.0\RefraseVb.runtimeconfig.dev.json
+G:\programacinoII\repositorios\codigo\VisualStudio\Refrase\RefraseVb\bin\Debug\net5.0\RefraseVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\Refrase\RefraseVb\bin\Debug\net5.0\ref\RefraseVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\Refrase\RefraseVb\bin\Debug\net5.0\RefraseVb.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\Refrase\RefraseVb\obj\Debug\net5.0\RefraseVb.GeneratedMSBuildEditorConfig.editorconfig
+G:\programacinoII\repositorios\codigo\VisualStudio\Refrase\RefraseVb\obj\Debug\net5.0\RefraseVb.AssemblyInfoInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\Refrase\RefraseVb\obj\Debug\net5.0\RefraseVb.AssemblyInfo.vb
+G:\programacinoII\repositorios\codigo\VisualStudio\Refrase\RefraseVb\obj\Debug\net5.0\RefraseVb.vbproj.CoreCompileInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\Refrase\RefraseVb\obj\Debug\net5.0\RefraseVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\Refrase\RefraseVb\obj\Debug\net5.0\ref\RefraseVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\Refrase\RefraseVb\obj\Debug\net5.0\RefraseVb.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\Refrase\RefraseVb\obj\Debug\net5.0\RefraseVb.genruntimeconfig.cache

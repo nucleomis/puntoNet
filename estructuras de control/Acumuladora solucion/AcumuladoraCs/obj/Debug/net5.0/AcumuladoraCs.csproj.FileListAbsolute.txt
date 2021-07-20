@@ -1,0 +1,16 @@
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Acumuladora solucion\AcumuladoraCs\bin\Debug\net5.0\AcumuladoraCs.exe
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Acumuladora solucion\AcumuladoraCs\bin\Debug\net5.0\AcumuladoraCs.deps.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Acumuladora solucion\AcumuladoraCs\bin\Debug\net5.0\AcumuladoraCs.runtimeconfig.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Acumuladora solucion\AcumuladoraCs\bin\Debug\net5.0\AcumuladoraCs.runtimeconfig.dev.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Acumuladora solucion\AcumuladoraCs\bin\Debug\net5.0\AcumuladoraCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Acumuladora solucion\AcumuladoraCs\bin\Debug\net5.0\ref\AcumuladoraCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Acumuladora solucion\AcumuladoraCs\bin\Debug\net5.0\AcumuladoraCs.pdb
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Acumuladora solucion\AcumuladoraCs\obj\Debug\net5.0\AcumuladoraCs.csprojAssemblyReference.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Acumuladora solucion\AcumuladoraCs\obj\Debug\net5.0\AcumuladoraCs.GeneratedMSBuildEditorConfig.editorconfig
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Acumuladora solucion\AcumuladoraCs\obj\Debug\net5.0\AcumuladoraCs.AssemblyInfoInputs.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Acumuladora solucion\AcumuladoraCs\obj\Debug\net5.0\AcumuladoraCs.AssemblyInfo.cs
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Acumuladora solucion\AcumuladoraCs\obj\Debug\net5.0\AcumuladoraCs.csproj.CoreCompileInputs.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Acumuladora solucion\AcumuladoraCs\obj\Debug\net5.0\AcumuladoraCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Acumuladora solucion\AcumuladoraCs\obj\Debug\net5.0\ref\AcumuladoraCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Acumuladora solucion\AcumuladoraCs\obj\Debug\net5.0\AcumuladoraCs.pdb
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Acumuladora solucion\AcumuladoraCs\obj\Debug\net5.0\AcumuladoraCs.genruntimeconfig.cache

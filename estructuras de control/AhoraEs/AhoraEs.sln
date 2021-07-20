@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AhoraEsCs", "AhoraEsCs\AhoraEsCs.csproj", "{BE5F7569-DB40-4C18-AEF6-E9D5C58DAD78}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AhoraEsVb", "AhoraEsVb\AhoraEsVb.vbproj", "{EA9DCB52-94F5-487D-AB0F-770111303CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE5F7569-DB40-4C18-AEF6-E9D5C58DAD78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5F7569-DB40-4C18-AEF6-E9D5C58DAD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5F7569-DB40-4C18-AEF6-E9D5C58DAD78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5F7569-DB40-4C18-AEF6-E9D5C58DAD78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA9DCB52-94F5-487D-AB0F-770111303CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA9DCB52-94F5-487D-AB0F-770111303CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA9DCB52-94F5-487D-AB0F-770111303CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA9DCB52-94F5-487D-AB0F-770111303CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A214DC48-0780-4E18-B2D1-F885E1EAF707}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAñoCs\bin\Debug\net5.0\FinDeAñoCs.exe
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAñoCs\bin\Debug\net5.0\FinDeAñoCs.deps.json
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAñoCs\bin\Debug\net5.0\FinDeAñoCs.runtimeconfig.json
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAñoCs\bin\Debug\net5.0\FinDeAñoCs.runtimeconfig.dev.json
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAñoCs\bin\Debug\net5.0\FinDeAñoCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAñoCs\bin\Debug\net5.0\ref\FinDeAñoCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAñoCs\bin\Debug\net5.0\FinDeAñoCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAñoCs\obj\Debug\net5.0\FinDeAñoCs.csprojAssemblyReference.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAñoCs\obj\Debug\net5.0\FinDeAñoCs.GeneratedMSBuildEditorConfig.editorconfig
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAñoCs\obj\Debug\net5.0\FinDeAñoCs.AssemblyInfoInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAñoCs\obj\Debug\net5.0\FinDeAñoCs.AssemblyInfo.cs
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAñoCs\obj\Debug\net5.0\FinDeAñoCs.csproj.CoreCompileInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAñoCs\obj\Debug\net5.0\FinDeAñoCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAñoCs\obj\Debug\net5.0\ref\FinDeAñoCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAñoCs\obj\Debug\net5.0\FinDeAñoCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAñoCs\obj\Debug\net5.0\FinDeAñoCs.genruntimeconfig.cache

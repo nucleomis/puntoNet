@@ -1,0 +1,16 @@
+G:\programacinoII\repositorios\codigo\VisualStudio\Sprint\SprintCs\obj\Debug\net5.0\SprintCs.GeneratedMSBuildEditorConfig.editorconfig
+G:\programacinoII\repositorios\codigo\VisualStudio\Sprint\SprintCs\obj\Debug\net5.0\SprintCs.AssemblyInfoInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\Sprint\SprintCs\obj\Debug\net5.0\SprintCs.AssemblyInfo.cs
+G:\programacinoII\repositorios\codigo\VisualStudio\Sprint\SprintCs\obj\Debug\net5.0\SprintCs.csproj.CoreCompileInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\Sprint\SprintCs\bin\Debug\net5.0\SprintCs.exe
+G:\programacinoII\repositorios\codigo\VisualStudio\Sprint\SprintCs\bin\Debug\net5.0\SprintCs.deps.json
+G:\programacinoII\repositorios\codigo\VisualStudio\Sprint\SprintCs\bin\Debug\net5.0\SprintCs.runtimeconfig.json
+G:\programacinoII\repositorios\codigo\VisualStudio\Sprint\SprintCs\bin\Debug\net5.0\SprintCs.runtimeconfig.dev.json
+G:\programacinoII\repositorios\codigo\VisualStudio\Sprint\SprintCs\bin\Debug\net5.0\SprintCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\Sprint\SprintCs\bin\Debug\net5.0\ref\SprintCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\Sprint\SprintCs\bin\Debug\net5.0\SprintCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\Sprint\SprintCs\obj\Debug\net5.0\SprintCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\Sprint\SprintCs\obj\Debug\net5.0\ref\SprintCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\Sprint\SprintCs\obj\Debug\net5.0\SprintCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\Sprint\SprintCs\obj\Debug\net5.0\SprintCs.genruntimeconfig.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\Sprint\SprintCs\obj\Debug\net5.0\SprintCs.csprojAssemblyReference.cache

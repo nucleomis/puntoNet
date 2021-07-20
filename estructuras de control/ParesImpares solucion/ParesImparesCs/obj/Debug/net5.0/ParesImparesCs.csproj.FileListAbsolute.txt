@@ -1,0 +1,16 @@
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\ParesImpares solucion\ParesImparesCs\bin\Debug\net5.0\ParesImparesCs.exe
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\ParesImpares solucion\ParesImparesCs\bin\Debug\net5.0\ParesImparesCs.deps.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\ParesImpares solucion\ParesImparesCs\bin\Debug\net5.0\ParesImparesCs.runtimeconfig.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\ParesImpares solucion\ParesImparesCs\bin\Debug\net5.0\ParesImparesCs.runtimeconfig.dev.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\ParesImpares solucion\ParesImparesCs\bin\Debug\net5.0\ParesImparesCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\ParesImpares solucion\ParesImparesCs\bin\Debug\net5.0\ref\ParesImparesCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\ParesImpares solucion\ParesImparesCs\bin\Debug\net5.0\ParesImparesCs.pdb
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\ParesImpares solucion\ParesImparesCs\obj\Debug\net5.0\ParesImparesCs.csprojAssemblyReference.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\ParesImpares solucion\ParesImparesCs\obj\Debug\net5.0\ParesImparesCs.GeneratedMSBuildEditorConfig.editorconfig
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\ParesImpares solucion\ParesImparesCs\obj\Debug\net5.0\ParesImparesCs.AssemblyInfoInputs.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\ParesImpares solucion\ParesImparesCs\obj\Debug\net5.0\ParesImparesCs.AssemblyInfo.cs
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\ParesImpares solucion\ParesImparesCs\obj\Debug\net5.0\ParesImparesCs.csproj.CoreCompileInputs.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\ParesImpares solucion\ParesImparesCs\obj\Debug\net5.0\ParesImparesCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\ParesImpares solucion\ParesImparesCs\obj\Debug\net5.0\ref\ParesImparesCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\ParesImpares solucion\ParesImparesCs\obj\Debug\net5.0\ParesImparesCs.pdb
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\ParesImpares solucion\ParesImparesCs\obj\Debug\net5.0\ParesImparesCs.genruntimeconfig.cache

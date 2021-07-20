@@ -1,0 +1,15 @@
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\VolumenCilindro\VolumenCilindroCs\bin\Debug\net5.0\VolumenCilindroCs.exe
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\VolumenCilindro\VolumenCilindroCs\bin\Debug\net5.0\VolumenCilindroCs.deps.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\VolumenCilindro\VolumenCilindroCs\bin\Debug\net5.0\VolumenCilindroCs.runtimeconfig.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\VolumenCilindro\VolumenCilindroCs\bin\Debug\net5.0\VolumenCilindroCs.runtimeconfig.dev.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\VolumenCilindro\VolumenCilindroCs\bin\Debug\net5.0\VolumenCilindroCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\VolumenCilindro\VolumenCilindroCs\bin\Debug\net5.0\ref\VolumenCilindroCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\VolumenCilindro\VolumenCilindroCs\bin\Debug\net5.0\VolumenCilindroCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\VolumenCilindro\VolumenCilindroCs\obj\Debug\net5.0\VolumenCilindroCs.GeneratedMSBuildEditorConfig.editorconfig
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\VolumenCilindro\VolumenCilindroCs\obj\Debug\net5.0\VolumenCilindroCs.AssemblyInfoInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\VolumenCilindro\VolumenCilindroCs\obj\Debug\net5.0\VolumenCilindroCs.AssemblyInfo.cs
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\VolumenCilindro\VolumenCilindroCs\obj\Debug\net5.0\VolumenCilindroCs.csproj.CoreCompileInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\VolumenCilindro\VolumenCilindroCs\obj\Debug\net5.0\VolumenCilindroCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\VolumenCilindro\VolumenCilindroCs\obj\Debug\net5.0\ref\VolumenCilindroCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\VolumenCilindro\VolumenCilindroCs\obj\Debug\net5.0\VolumenCilindroCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\VolumenCilindro\VolumenCilindroCs\obj\Debug\net5.0\VolumenCilindroCs.genruntimeconfig.cache

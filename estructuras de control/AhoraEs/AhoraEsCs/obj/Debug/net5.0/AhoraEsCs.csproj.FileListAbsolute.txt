@@ -1,0 +1,16 @@
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\AhoraEs\AhoraEsCs\bin\Debug\net5.0\AhoraEsCs.exe
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\AhoraEs\AhoraEsCs\bin\Debug\net5.0\AhoraEsCs.deps.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\AhoraEs\AhoraEsCs\bin\Debug\net5.0\AhoraEsCs.runtimeconfig.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\AhoraEs\AhoraEsCs\bin\Debug\net5.0\AhoraEsCs.runtimeconfig.dev.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\AhoraEs\AhoraEsCs\bin\Debug\net5.0\AhoraEsCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\AhoraEs\AhoraEsCs\bin\Debug\net5.0\ref\AhoraEsCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\AhoraEs\AhoraEsCs\bin\Debug\net5.0\AhoraEsCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\AhoraEs\AhoraEsCs\obj\Debug\net5.0\AhoraEsCs.csprojAssemblyReference.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\AhoraEs\AhoraEsCs\obj\Debug\net5.0\AhoraEsCs.GeneratedMSBuildEditorConfig.editorconfig
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\AhoraEs\AhoraEsCs\obj\Debug\net5.0\AhoraEsCs.AssemblyInfoInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\AhoraEs\AhoraEsCs\obj\Debug\net5.0\AhoraEsCs.AssemblyInfo.cs
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\AhoraEs\AhoraEsCs\obj\Debug\net5.0\AhoraEsCs.csproj.CoreCompileInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\AhoraEs\AhoraEsCs\obj\Debug\net5.0\AhoraEsCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\AhoraEs\AhoraEsCs\obj\Debug\net5.0\ref\AhoraEsCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\AhoraEs\AhoraEsCs\obj\Debug\net5.0\AhoraEsCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\AhoraEs\AhoraEsCs\obj\Debug\net5.0\AhoraEsCs.genruntimeconfig.cache

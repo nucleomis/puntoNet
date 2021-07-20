@@ -1,0 +1,15 @@
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAño\bin\Debug\net5.0\FinDeAñoVb.exe
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAño\bin\Debug\net5.0\FinDeAñoVb.deps.json
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAño\bin\Debug\net5.0\FinDeAñoVb.runtimeconfig.json
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAño\bin\Debug\net5.0\FinDeAñoVb.runtimeconfig.dev.json
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAño\bin\Debug\net5.0\FinDeAñoVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAño\bin\Debug\net5.0\ref\FinDeAñoVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAño\bin\Debug\net5.0\FinDeAñoVb.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAño\obj\Debug\net5.0\FinDeAñoVb.GeneratedMSBuildEditorConfig.editorconfig
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAño\obj\Debug\net5.0\FinDeAñoVb.AssemblyInfoInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAño\obj\Debug\net5.0\FinDeAñoVb.AssemblyInfo.vb
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAño\obj\Debug\net5.0\FinDeAñoVb.vbproj.CoreCompileInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAño\obj\Debug\net5.0\FinDeAñoVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAño\obj\Debug\net5.0\ref\FinDeAñoVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAño\obj\Debug\net5.0\FinDeAñoVb.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\FinDeAño\FinDeAño\obj\Debug\net5.0\FinDeAñoVb.genruntimeconfig.cache

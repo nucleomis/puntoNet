@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Nueva_fechaVb/1.0.0": {
+        "runtime": {
+          "Nueva_fechaVb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nueva_fechaVb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

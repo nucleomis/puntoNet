@@ -1,0 +1,16 @@
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listasCs\obj\Debug\net5.0\Menu_listasCs.csprojAssemblyReference.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listasCs\obj\Debug\net5.0\Menu_listasCs.GeneratedMSBuildEditorConfig.editorconfig
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listasCs\obj\Debug\net5.0\Menu_listasCs.AssemblyInfoInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listasCs\obj\Debug\net5.0\Menu_listasCs.AssemblyInfo.cs
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listasCs\obj\Debug\net5.0\Menu_listasCs.csproj.CoreCompileInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listasCs\bin\Debug\net5.0\Menu_listasCs.exe
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listasCs\bin\Debug\net5.0\Menu_listasCs.deps.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listasCs\bin\Debug\net5.0\Menu_listasCs.runtimeconfig.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listasCs\bin\Debug\net5.0\Menu_listasCs.runtimeconfig.dev.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listasCs\bin\Debug\net5.0\Menu_listasCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listasCs\bin\Debug\net5.0\ref\Menu_listasCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listasCs\bin\Debug\net5.0\Menu_listasCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listasCs\obj\Debug\net5.0\Menu_listasCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listasCs\obj\Debug\net5.0\ref\Menu_listasCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listasCs\obj\Debug\net5.0\Menu_listasCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listasCs\obj\Debug\net5.0\Menu_listasCs.genruntimeconfig.cache

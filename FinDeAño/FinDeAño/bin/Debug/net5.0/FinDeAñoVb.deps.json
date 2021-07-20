@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FinDeAñoVb/1.0.0": {
+        "runtime": {
+          "FinDeAñoVb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinDeAñoVb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

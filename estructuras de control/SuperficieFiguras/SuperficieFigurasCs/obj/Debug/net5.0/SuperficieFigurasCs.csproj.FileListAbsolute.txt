@@ -1,0 +1,16 @@
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\SuperficieFiguras\SuperficieFigurasCs\bin\Debug\net5.0\SuperficieFigurasCs.exe
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\SuperficieFiguras\SuperficieFigurasCs\bin\Debug\net5.0\SuperficieFigurasCs.deps.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\SuperficieFiguras\SuperficieFigurasCs\bin\Debug\net5.0\SuperficieFigurasCs.runtimeconfig.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\SuperficieFiguras\SuperficieFigurasCs\bin\Debug\net5.0\SuperficieFigurasCs.runtimeconfig.dev.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\SuperficieFiguras\SuperficieFigurasCs\bin\Debug\net5.0\SuperficieFigurasCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\SuperficieFiguras\SuperficieFigurasCs\bin\Debug\net5.0\ref\SuperficieFigurasCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\SuperficieFiguras\SuperficieFigurasCs\bin\Debug\net5.0\SuperficieFigurasCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\SuperficieFiguras\SuperficieFigurasCs\obj\Debug\net5.0\SuperficieFigurasCs.csprojAssemblyReference.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\SuperficieFiguras\SuperficieFigurasCs\obj\Debug\net5.0\SuperficieFigurasCs.GeneratedMSBuildEditorConfig.editorconfig
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\SuperficieFiguras\SuperficieFigurasCs\obj\Debug\net5.0\SuperficieFigurasCs.AssemblyInfoInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\SuperficieFiguras\SuperficieFigurasCs\obj\Debug\net5.0\SuperficieFigurasCs.AssemblyInfo.cs
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\SuperficieFiguras\SuperficieFigurasCs\obj\Debug\net5.0\SuperficieFigurasCs.csproj.CoreCompileInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\SuperficieFiguras\SuperficieFigurasCs\obj\Debug\net5.0\SuperficieFigurasCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\SuperficieFiguras\SuperficieFigurasCs\obj\Debug\net5.0\ref\SuperficieFigurasCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\SuperficieFiguras\SuperficieFigurasCs\obj\Debug\net5.0\SuperficieFigurasCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\SuperficieFiguras\SuperficieFigurasCs\obj\Debug\net5.0\SuperficieFigurasCs.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Media solucion\MediaCs\bin\Debug\net5.0\MediaCs.exe
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Media solucion\MediaCs\bin\Debug\net5.0\MediaCs.deps.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Media solucion\MediaCs\bin\Debug\net5.0\MediaCs.runtimeconfig.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Media solucion\MediaCs\bin\Debug\net5.0\MediaCs.runtimeconfig.dev.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Media solucion\MediaCs\bin\Debug\net5.0\MediaCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Media solucion\MediaCs\bin\Debug\net5.0\ref\MediaCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Media solucion\MediaCs\bin\Debug\net5.0\MediaCs.pdb
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Media solucion\MediaCs\obj\Debug\net5.0\MediaCs.csprojAssemblyReference.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Media solucion\MediaCs\obj\Debug\net5.0\MediaCs.GeneratedMSBuildEditorConfig.editorconfig
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Media solucion\MediaCs\obj\Debug\net5.0\MediaCs.AssemblyInfoInputs.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Media solucion\MediaCs\obj\Debug\net5.0\MediaCs.AssemblyInfo.cs
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Media solucion\MediaCs\obj\Debug\net5.0\MediaCs.csproj.CoreCompileInputs.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Media solucion\MediaCs\obj\Debug\net5.0\MediaCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Media solucion\MediaCs\obj\Debug\net5.0\ref\MediaCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Media solucion\MediaCs\obj\Debug\net5.0\MediaCs.pdb
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Media solucion\MediaCs\obj\Debug\net5.0\MediaCs.genruntimeconfig.cache

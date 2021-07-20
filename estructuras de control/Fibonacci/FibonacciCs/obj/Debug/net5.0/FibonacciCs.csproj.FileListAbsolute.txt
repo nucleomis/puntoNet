@@ -1,0 +1,16 @@
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Fibonacci\FibonacciCs\obj\Debug\net5.0\FibonacciCs.csprojAssemblyReference.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Fibonacci\FibonacciCs\obj\Debug\net5.0\FibonacciCs.GeneratedMSBuildEditorConfig.editorconfig
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Fibonacci\FibonacciCs\obj\Debug\net5.0\FibonacciCs.AssemblyInfoInputs.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Fibonacci\FibonacciCs\obj\Debug\net5.0\FibonacciCs.AssemblyInfo.cs
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Fibonacci\FibonacciCs\obj\Debug\net5.0\FibonacciCs.csproj.CoreCompileInputs.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Fibonacci\FibonacciCs\bin\Debug\net5.0\FibonacciCs.exe
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Fibonacci\FibonacciCs\bin\Debug\net5.0\FibonacciCs.deps.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Fibonacci\FibonacciCs\bin\Debug\net5.0\FibonacciCs.runtimeconfig.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Fibonacci\FibonacciCs\bin\Debug\net5.0\FibonacciCs.runtimeconfig.dev.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Fibonacci\FibonacciCs\bin\Debug\net5.0\FibonacciCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Fibonacci\FibonacciCs\bin\Debug\net5.0\ref\FibonacciCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Fibonacci\FibonacciCs\bin\Debug\net5.0\FibonacciCs.pdb
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Fibonacci\FibonacciCs\obj\Debug\net5.0\FibonacciCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Fibonacci\FibonacciCs\obj\Debug\net5.0\ref\FibonacciCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Fibonacci\FibonacciCs\obj\Debug\net5.0\FibonacciCs.pdb
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Fibonacci\FibonacciCs\obj\Debug\net5.0\FibonacciCs.genruntimeconfig.cache

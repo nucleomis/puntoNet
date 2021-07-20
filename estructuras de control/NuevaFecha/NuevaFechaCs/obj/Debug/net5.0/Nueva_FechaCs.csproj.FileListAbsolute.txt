@@ -1,0 +1,16 @@
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\NuevaFechaCs\bin\Debug\net5.0\Nueva_FechaCs.exe
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\NuevaFechaCs\bin\Debug\net5.0\Nueva_FechaCs.deps.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\NuevaFechaCs\bin\Debug\net5.0\Nueva_FechaCs.runtimeconfig.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\NuevaFechaCs\bin\Debug\net5.0\Nueva_FechaCs.runtimeconfig.dev.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\NuevaFechaCs\bin\Debug\net5.0\Nueva_FechaCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\NuevaFechaCs\bin\Debug\net5.0\ref\Nueva_FechaCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\NuevaFechaCs\bin\Debug\net5.0\Nueva_FechaCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\NuevaFechaCs\obj\Debug\net5.0\Nueva_FechaCs.csprojAssemblyReference.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\NuevaFechaCs\obj\Debug\net5.0\Nueva_FechaCs.GeneratedMSBuildEditorConfig.editorconfig
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\NuevaFechaCs\obj\Debug\net5.0\Nueva_FechaCs.AssemblyInfoInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\NuevaFechaCs\obj\Debug\net5.0\Nueva_FechaCs.AssemblyInfo.cs
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\NuevaFechaCs\obj\Debug\net5.0\Nueva_FechaCs.csproj.CoreCompileInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\NuevaFechaCs\obj\Debug\net5.0\Nueva_FechaCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\NuevaFechaCs\obj\Debug\net5.0\ref\Nueva_FechaCs.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\NuevaFechaCs\obj\Debug\net5.0\Nueva_FechaCs.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\NuevaFecha\NuevaFechaCs\obj\Debug\net5.0\Nueva_FechaCs.genruntimeconfig.cache

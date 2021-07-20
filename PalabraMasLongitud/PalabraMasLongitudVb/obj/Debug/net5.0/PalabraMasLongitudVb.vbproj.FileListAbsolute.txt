@@ -1,0 +1,16 @@
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudVb\bin\Debug\net5.0\PalabraMasLongitudVb.exe
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudVb\bin\Debug\net5.0\PalabraMasLongitudVb.deps.json
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudVb\bin\Debug\net5.0\PalabraMasLongitudVb.runtimeconfig.json
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudVb\bin\Debug\net5.0\PalabraMasLongitudVb.runtimeconfig.dev.json
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudVb\bin\Debug\net5.0\PalabraMasLongitudVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudVb\bin\Debug\net5.0\ref\PalabraMasLongitudVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudVb\bin\Debug\net5.0\PalabraMasLongitudVb.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudVb\obj\Debug\net5.0\PalabraMasLongitudVb.vbprojAssemblyReference.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudVb\obj\Debug\net5.0\PalabraMasLongitudVb.GeneratedMSBuildEditorConfig.editorconfig
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudVb\obj\Debug\net5.0\PalabraMasLongitudVb.AssemblyInfoInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudVb\obj\Debug\net5.0\PalabraMasLongitudVb.AssemblyInfo.vb
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudVb\obj\Debug\net5.0\PalabraMasLongitudVb.vbproj.CoreCompileInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudVb\obj\Debug\net5.0\PalabraMasLongitudVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudVb\obj\Debug\net5.0\ref\PalabraMasLongitudVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudVb\obj\Debug\net5.0\PalabraMasLongitudVb.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\PalabraMasLongitud\PalabraMasLongitudVb\obj\Debug\net5.0\PalabraMasLongitudVb.genruntimeconfig.cache

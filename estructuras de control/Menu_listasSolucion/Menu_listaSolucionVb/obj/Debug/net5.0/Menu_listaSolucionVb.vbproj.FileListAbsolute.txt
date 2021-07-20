@@ -1,0 +1,16 @@
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listaSolucionVb\obj\Debug\net5.0\Menu_listaSolucionVb.vbprojAssemblyReference.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listaSolucionVb\obj\Debug\net5.0\Menu_listaSolucionVb.GeneratedMSBuildEditorConfig.editorconfig
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listaSolucionVb\obj\Debug\net5.0\Menu_listaSolucionVb.AssemblyInfoInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listaSolucionVb\obj\Debug\net5.0\Menu_listaSolucionVb.AssemblyInfo.vb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listaSolucionVb\obj\Debug\net5.0\Menu_listaSolucionVb.vbproj.CoreCompileInputs.cache
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listaSolucionVb\bin\Debug\net5.0\Menu_listaSolucionVb.exe
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listaSolucionVb\bin\Debug\net5.0\Menu_listaSolucionVb.deps.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listaSolucionVb\bin\Debug\net5.0\Menu_listaSolucionVb.runtimeconfig.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listaSolucionVb\bin\Debug\net5.0\Menu_listaSolucionVb.runtimeconfig.dev.json
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listaSolucionVb\bin\Debug\net5.0\Menu_listaSolucionVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listaSolucionVb\bin\Debug\net5.0\ref\Menu_listaSolucionVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listaSolucionVb\bin\Debug\net5.0\Menu_listaSolucionVb.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listaSolucionVb\obj\Debug\net5.0\Menu_listaSolucionVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listaSolucionVb\obj\Debug\net5.0\ref\Menu_listaSolucionVb.dll
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listaSolucionVb\obj\Debug\net5.0\Menu_listaSolucionVb.pdb
+G:\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Menu_listasSolucion\Menu_listaSolucionVb\obj\Debug\net5.0\Menu_listaSolucionVb.genruntimeconfig.cache

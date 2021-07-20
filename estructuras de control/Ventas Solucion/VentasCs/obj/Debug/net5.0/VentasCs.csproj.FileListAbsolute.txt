@@ -1,0 +1,16 @@
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Ventas Solucion\VentasCs\bin\Debug\net5.0\VentasCs.exe
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Ventas Solucion\VentasCs\bin\Debug\net5.0\VentasCs.deps.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Ventas Solucion\VentasCs\bin\Debug\net5.0\VentasCs.runtimeconfig.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Ventas Solucion\VentasCs\bin\Debug\net5.0\VentasCs.runtimeconfig.dev.json
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Ventas Solucion\VentasCs\bin\Debug\net5.0\VentasCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Ventas Solucion\VentasCs\bin\Debug\net5.0\ref\VentasCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Ventas Solucion\VentasCs\bin\Debug\net5.0\VentasCs.pdb
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Ventas Solucion\VentasCs\obj\Debug\net5.0\VentasCs.csprojAssemblyReference.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Ventas Solucion\VentasCs\obj\Debug\net5.0\VentasCs.GeneratedMSBuildEditorConfig.editorconfig
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Ventas Solucion\VentasCs\obj\Debug\net5.0\VentasCs.AssemblyInfoInputs.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Ventas Solucion\VentasCs\obj\Debug\net5.0\VentasCs.AssemblyInfo.cs
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Ventas Solucion\VentasCs\obj\Debug\net5.0\VentasCs.csproj.CoreCompileInputs.cache
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Ventas Solucion\VentasCs\obj\Debug\net5.0\VentasCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Ventas Solucion\VentasCs\obj\Debug\net5.0\ref\VentasCs.dll
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Ventas Solucion\VentasCs\obj\Debug\net5.0\VentasCs.pdb
+G:\analista de sistemas 2\programacinoII\repositorios\codigo\VisualStudio\estructuras de control\Ventas Solucion\VentasCs\obj\Debug\net5.0\VentasCs.genruntimeconfig.cache
